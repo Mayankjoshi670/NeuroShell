@@ -1,0 +1,5 @@
+langchain>=0.0.200
+google-generativeai>=0.2.0
+python-dotenv>=1.0.0
+colorama>=0.4.6
+prompt_toolkit>=3.0.38
